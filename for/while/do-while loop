@@ -1,0 +1,15 @@
+//for loop//
+for (int i = 0; i < 5; i++) {
+  System.out.println("Number of tasks: " + i); }
+//while//
+int reiterate = 0;
+while (reiterate < 5) {
+  System.out.println("Reiterate tasks: " + reiterate);
+  reiterate++;
+//do-while loop//
+int num = 1;
+do {
+  System.out.println("Number of tasks: " + num);
+  num++;}
+  while (num <= 3);
+  
